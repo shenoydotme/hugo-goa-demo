@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/about/</link>
+    <description>Recent content in About on Erlich Bachman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/about/</guid>
+      <description>&lt;p&gt;Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]&lt;/p&gt;
+
+&lt;p&gt;In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.&lt;/p&gt;
+
+&lt;p&gt;In Two Days of the Condor, it is revealed that Erlich no longer codes due to carpal tunnel syndrome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

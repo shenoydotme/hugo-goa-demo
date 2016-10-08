@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coderags on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/coderag/</link>
+    <description>Recent content in Coderags on Erlich Bachman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://shenoybr.github.io/hugo-goa-demo/coderag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CodeRag</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/coderag/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/coderag/</guid>
+      <description>&lt;p&gt;Notes: This article originally appeared in &lt;a href=&#34;http://www.coderag.com/-note-from-the-editor/&#34;&gt;CodeRag&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on. And like any other company in the Silicon Valley community, Code/Rag is an ever-evolving entity.&lt;/p&gt;
+
+&lt;p&gt;Part of Code/Rag’s evolution includes our new investor: Bachmanity Capital. Bachmanity, as of this writing, owns a 50 percent stake in Code/Rag. I want to assure our readers this will in no way affect the quality or integrity of our journalism (it takes more than a couple dollars to shut me up). It simply means we have more funds to chase down the story, more resources to analyze trends and more assurances that when you read Code/Rag, you’ll know your code.&lt;/p&gt;
+
+&lt;p&gt;C.J. Cantwell
+Editor-in-Chief&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
