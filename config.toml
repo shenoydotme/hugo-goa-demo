@@ -16,7 +16,7 @@ title = "Erlich Bachman"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "<yourDisqusShortName>" # Comment out to disable Disqus.
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
