@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/hooli/index.xml</link>
-    <description>Recent content on Erlich Bachman</description>
+    <title>Hooli on Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/tags/hooli/</link>
+    <description>Recent content in Hooli on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
     <atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/hooli/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
