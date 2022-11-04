@@ -2,12 +2,12 @@
 
 ## About
 
-This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa) by [@shenoybr](https://github.com/shenoybr).
+This site demonstrates the use of the [Hugo Goa Theme](https://github.com/kaapiandcode/hugo-goa) by [@kaapiandcode](https://github.com/kaapiandcode).
 
 ## Usage
 
 * Install [Hugo](gohugo.io)
-* git clone --recursive https://github.com/shenoybr/hugo-goa-demo
+* git clone --recursive https://github.com/kaapiandcode/hugo-goa-demo
 * Run `hugo server -w -v` from the root directory
 * Site will be visible at `localhost:1313/hugo-goa-demo`
 
