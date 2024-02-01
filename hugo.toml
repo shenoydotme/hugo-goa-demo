@@ -1,0 +1,99 @@
+## Basic Configuration
+
+baseurl = "https://kaapiandcode.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Panjim Goa"
+title = "Panjim Goa"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Panjim Goa"
+intro = "Innovative Tech Visionary"
+description = "Leading the charge at [Incircle Media](https://incirclemedia.com)"
+authorimage = "headshot.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "<username>"
+instagram = "<username>"
+linkedin = "<username>"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+googlescholar = "<account_id>"
+orcid = "0123-4567-8901-2345"
+stackoverflow = "<username>"
+lastfm = "<username>"
+goodreads = "<username>"
+gitlab = "<username>"
+bitbucket = "<username>"
+fivehundredpx = "<username>"
+flickr = "<username>"
+foursquare = "<username>"
+hackernews = "<username>"
+kickstarter = "<username>"
+patreon = "<username>"
+pintrest = "<username>"
+steam = "<username>"
+reddit = "<username>"
+snapchat = "<username>"
+youtube = "<channelid>"
+keybase = "<username>"
+twitch = "<username>"
+soundcloud = "<username>"
+tumblr = "<username>"
+strava = "<username>"
+skype = "<username>"
+telegram = "<username>"
+whatsapp = "<username>"
+buymeacoffee = "<username>"
+kaggle = "<username>"
+holopin = "<username>"
+email = "you@example.com"
+pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2024. Panjim Goa. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+name = "posts"
+weight = 100
+identifier = "posts"
+url = "/posts/"
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 200
+url = "/about/"
+[[menu.main]]
+name = "projects"
+identifier = "projects"
+weight = 300
+url = "/projects/"

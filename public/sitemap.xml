@@ -1,34 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/third/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/about/</loc>
+    <loc>https://kaapiandcode.github.io/posts/fourth/</loc>
+    <lastmod>2024-02-01T04:56:02+05:30</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/</loc>
+    <lastmod>2024-02-01T04:56:02+05:30</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/posts/</loc>
+    <lastmod>2024-02-01T04:56:02+05:30</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/posts/third/</loc>
+    <lastmod>2024-02-01T04:55:59+05:30</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/posts/second/</loc>
+    <lastmod>2024-02-01T04:55:54+05:30</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/tags/about/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/categories/about/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/about/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/categories/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/posts/first/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/tags/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/tags/goatech/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/tags/innovation/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/tags/panjim-goa/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://kaapiandcode.github.io/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/coderag/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/first/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/second/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
-  </url>
-  
 </urlset>

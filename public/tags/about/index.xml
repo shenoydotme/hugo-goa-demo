@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/about/</link>
-    <description>Recent content in About on Erlich Bachman</description>
+    <title>about on Panjim Goa</title>
+    <link>https://kaapiandcode.github.io/tags/about/</link>
+    <description>Recent content in about on Panjim Goa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    <atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/about/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://kaapiandcode.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://shenoybr.github.io/hugo-goa-demo/about/</guid>
-      <description>&lt;p&gt;Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]&lt;/p&gt;
-
-&lt;p&gt;In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.&lt;/p&gt;
-
-&lt;p&gt;In Two Days of the Condor, it is revealed that Erlich no longer codes due to carpal tunnel syndrome.&lt;/p&gt;
-</description>
+      <link>https://kaapiandcode.github.io/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://kaapiandcode.github.io/about/</guid>
+      <description>Panjim Goa is a visionary leader in the tech industry, known for his innovative approach and dynamic leadership at GoaTech, a leading tech startup. With a background in both technology and business, Panjim has been instrumental in driving the company&amp;rsquo;s growth and success. His journey began with a modest startup in the scenic city of Goa, where his unique ideas and relentless pursuit of excellence set him apart.&#xA;Panjim&amp;rsquo;s philosophy revolves around sustainable and innovative tech solutions that address real-world problems.</description>
     </item>
-    
   </channel>
 </rss>

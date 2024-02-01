@@ -6,10 +6,10 @@ This site demonstrates the use of the [Hugo Goa Theme](https://github.com/kaapia
 
 ## Usage
 
-* Install [Hugo](gohugo.io)
-* git clone --recursive https://github.com/kaapiandcode/hugo-goa-demo
-* Run `hugo server -w -v` from the root directory
-* Site will be visible at `localhost:1313/hugo-goa-demo`
+- Install [Hugo](gohugo.io)
+- git clone --recursive https://github.com/kaapiandcode/hugo-goa-demo
+- Run `hugo server` from the root directory
+- Site will be visible at `localhost:1313`
 
 ## License
 
