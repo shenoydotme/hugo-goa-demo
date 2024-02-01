@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panjim Goa</title>
+    <link>https://kaapiandcode.github.io/tags/panjim-goa/</link>
+    <description>Recent content on Panjim Goa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://kaapiandcode.github.io/tags/panjim-goa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoaTech&#39;s Rise</title>
+      <link>https://kaapiandcode.github.io/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <guid>https://kaapiandcode.github.io/projects/</guid>
+      <description>Notes: This article originally appeared on GoaTech Insights.&#xA;GoaTech Insights has always been more than just another tech industry blog. Our mission is to be an integral part of the tech community, offering an in-depth and nuanced look at the latest developments in the field. Our ethos is encapsulated in our tagline: &amp;ldquo;Innovate and Inspire.&amp;rdquo; We believe that a tech news platform should not only be informative but also inspire its readers.</description>
+    </item>
+  </channel>
+</rss>

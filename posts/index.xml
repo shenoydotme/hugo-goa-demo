@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Panjim Goa</title>
-    <link>https://kaapiandcode.github.io/</link>
-    <description>Recent content on Panjim Goa</description>
+    <title>Posts on Panjim Goa</title>
+    <link>https://kaapiandcode.github.io/posts/</link>
+    <description>Recent content in Posts on Panjim Goa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 01 Feb 2024 04:56:02 +0530</lastBuildDate>
-    <atom:link href="https://kaapiandcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaapiandcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post</title>
       <link>https://kaapiandcode.github.io/posts/fourth/</link>
@@ -30,25 +30,11 @@
       <description>Heading of the Post Start writing your content here. You can add more sections, images, links, and various formatting to enrich your post. Here are some ideas to get started:&#xA;Subheading for a Section Discuss a specific topic in detail here. You can add personal insights, professional tips, or any relevant information.&#xA;Example Code Blocks JavaScript console.log(&amp;#34;Welcome to my second post!&amp;#34;); Go fmt.Println(&amp;#34;Welcome to my second post!&amp;#34;) Python for i in range(10): print(&amp;#34;Welcome to my second post!</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://kaapiandcode.github.io/about/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://kaapiandcode.github.io/about/</guid>
-      <description>Panjim Goa is a visionary leader in the tech industry, known for his innovative approach and dynamic leadership at GoaTech, a leading tech startup. With a background in both technology and business, Panjim has been instrumental in driving the company&amp;rsquo;s growth and success. His journey began with a modest startup in the scenic city of Goa, where his unique ideas and relentless pursuit of excellence set him apart.&#xA;Panjim&amp;rsquo;s philosophy revolves around sustainable and innovative tech solutions that address real-world problems.</description>
-    </item>
-    <item>
       <title>My First Post</title>
       <link>https://kaapiandcode.github.io/posts/first/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>https://kaapiandcode.github.io/posts/first/</guid>
       <description>Introduction Welcome to my first post using Hugo! In this post, I&amp;rsquo;m going to showcase some basic Markdown formatting and discuss why I chose Hugo for my blogging platform.&#xA;This is bold text, and this is emphasized text.&#xA;Why Hugo? Hugo is a fast and flexible static site generator, perfect for blogs, portfolios, and even company websites. Here&amp;rsquo;s why I love it:&#xA;Speed: Hugo generates pages at an incredibly fast speed.</description>
-    </item>
-    <item>
-      <title>GoaTech&#39;s Rise</title>
-      <link>https://kaapiandcode.github.io/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://kaapiandcode.github.io/projects/</guid>
-      <description>Notes: This article originally appeared on GoaTech Insights.&#xA;GoaTech Insights has always been more than just another tech industry blog. Our mission is to be an integral part of the tech community, offering an in-depth and nuanced look at the latest developments in the field. Our ethos is encapsulated in our tagline: &amp;ldquo;Innovate and Inspire.&amp;rdquo; We believe that a tech news platform should not only be informative but also inspire its readers.</description>
     </item>
   </channel>
 </rss>
