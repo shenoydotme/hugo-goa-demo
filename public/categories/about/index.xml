@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Panjim Goa</title>
+    <link>https://kaapiandcode.github.io/hugo-goa-demo/categories/about/</link>
+    <description>Recent content in about on Panjim Goa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://kaapiandcode.github.io/hugo-goa-demo/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/about/</guid>
+      <description>Panjim Goa is a visionary leader in the tech industry, known for his innovative approach and dynamic leadership at GoaTech, a leading tech startup. With a background in both technology and business, Panjim has been instrumental in driving the company&amp;rsquo;s growth and success. His journey began with a modest startup in the scenic city of Goa, where his unique ideas and relentless pursuit of excellence set him apart.&#xA;Panjim&amp;rsquo;s philosophy revolves around sustainable and innovative tech solutions that address real-world problems.</description>
+    </item>
+  </channel>
+</rss>

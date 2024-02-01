@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Panjim Goa</title>
+    <link>https://kaapiandcode.github.io/hugo-goa-demo/posts/</link>
+    <description>Recent content in Posts on Panjim Goa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Feb 2024 04:56:02 +0530</lastBuildDate>
+    <atom:link href="https://kaapiandcode.github.io/hugo-goa-demo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fourth Post</title>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/posts/fourth/</link>
+      <pubDate>Thu, 01 Feb 2024 04:56:02 +0530</pubDate>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/posts/fourth/</guid>
+      <description>May the Fourth Be with You: A Galactic Pun Introduction Greetings, Earthlings and intergalactic travelers! Today, in my fourth post, we venture into a galaxy far, far away to explore a day cherished by rebels, Jedi, and starship enthusiasts alike — May the Fourth. Yes, you&amp;rsquo;ve guessed it! It&amp;rsquo;s the unofficial Star Wars Day, and we&amp;rsquo;re here to unravel an elaborate joke that has transcended space and time.&#xA;The Origin of the Pun It all started a long time ago in a galaxy&amp;hellip; well, not too far away.</description>
+    </item>
+    <item>
+      <title>My Third Post: We Demonstrate Images</title>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/posts/third/</link>
+      <pubDate>Thu, 01 Feb 2024 04:55:59 +0530</pubDate>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/posts/third/</guid>
+      <description>Reflecting on Carl Sagan&amp;rsquo;s Pale Blue Dot Photo by JuniperPhoton&#xA;Introduction In 1990, Voyager 1, a tiny spacecraft hurled into the vast expanse of space, turned its camera around at the request of astronomer Carl Sagan and took a photograph of Earth from a distance of about 3.7 billion miles. This image, known as the &amp;ldquo;Pale Blue Dot,&amp;rdquo; is a humbling depiction of our planet — a tiny, fragile speck suspended in a sunbeam.</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/posts/second/</link>
+      <pubDate>Thu, 01 Feb 2024 04:55:54 +0530</pubDate>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/posts/second/</guid>
+      <description>Heading of the Post Start writing your content here. You can add more sections, images, links, and various formatting to enrich your post. Here are some ideas to get started:&#xA;Subheading for a Section Discuss a specific topic in detail here. You can add personal insights, professional tips, or any relevant information.&#xA;Example Code Blocks JavaScript console.log(&amp;#34;Welcome to my second post!&amp;#34;); Go fmt.Println(&amp;#34;Welcome to my second post!&amp;#34;) Python for i in range(10): print(&amp;#34;Welcome to my second post!</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/posts/first/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/posts/first/</guid>
+      <description>Introduction Welcome to my first post using Hugo! In this post, I&amp;rsquo;m going to showcase some basic Markdown formatting and discuss why I chose Hugo for my blogging platform.&#xA;This is bold text, and this is emphasized text.&#xA;Why Hugo? Hugo is a fast and flexible static site generator, perfect for blogs, portfolios, and even company websites. Here&amp;rsquo;s why I love it:&#xA;Speed: Hugo generates pages at an incredibly fast speed.</description>
+    </item>
+  </channel>
+</rss>
