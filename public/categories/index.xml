@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Panjim Goa</title>
-    <link>https://kaapiandcode.github.io/categories/</link>
+    <link>https://kaapiandcode.github.io/hugo-goa-demo/categories/</link>
     <description>Recent content in Categories on Panjim Goa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://kaapiandcode.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaapiandcode.github.io/hugo-goa-demo/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>https://kaapiandcode.github.io/categories/about/</link>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/categories/about/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://kaapiandcode.github.io/categories/about/</guid>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/categories/about/</guid>
       <description></description>
     </item>
     <item>
       <title>projects</title>
-      <link>https://kaapiandcode.github.io/categories/projects/</link>
+      <link>https://kaapiandcode.github.io/hugo-goa-demo/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://kaapiandcode.github.io/categories/projects/</guid>
+      <guid>https://kaapiandcode.github.io/hugo-goa-demo/categories/projects/</guid>
       <description></description>
     </item>
   </channel>
