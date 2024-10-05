@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://kaapiandcode.github.io/hugo-goa-demo"
+baseurl = "https://shenoydotme.github.io/hugo-goa-demo"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
