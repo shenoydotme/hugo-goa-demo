@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papyrus Apps</title>
-    <link>https://shenoydotme.github.io/hugo-goa-demo/</link>
+    <link>http://localhost:1313/hugo-goa-demo/</link>
     <description>Recent content on Papyrus Apps</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 10 Jan 2026 09:45:00 +0100</lastBuildDate>
-    <atom:link href="https://shenoydotme.github.io/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://shenoydotme.github.io/hugo-goa-demo/posts/first/</link>
+      <link>http://localhost:1313/hugo-goa-demo/posts/first/</link>
       <pubDate>Sat, 10 Jan 2026 09:45:00 +0100</pubDate>
-      <guid>https://shenoydotme.github.io/hugo-goa-demo/posts/first/</guid>
+      <guid>http://localhost:1313/hugo-goa-demo/posts/first/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my first post using Hugo! In this post, I&amp;rsquo;m going to showcase some basic Markdown formatting and discuss why I chose Hugo for my blogging platform.&lt;/p&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is a fast and flexible static site generator, perfect for blogs, portfolios, and even company websites. Here&amp;rsquo;s why I love it:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt;: Hugo generates pages at an incredibly fast speed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: You can create any type of website with Hugo.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt;: The Hugo community is supportive and continuously growing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;markdown-basics&#34;&gt;Markdown Basics&lt;/h2&gt;&#xA;&lt;p&gt;Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Here are some basics:&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://shenoydotme.github.io/hugo-goa-demo/about/</link>
+      <link>http://localhost:1313/hugo-goa-demo/about/</link>
       <pubDate>Sat, 10 Jan 2026 09:15:00 +0100</pubDate>
-      <guid>https://shenoydotme.github.io/hugo-goa-demo/about/</guid>
+      <guid>http://localhost:1313/hugo-goa-demo/about/</guid>
       <description>&lt;p&gt;Papyrus Apps is a small product studio focused on building calm, useful software that feels good to use. We care about craft, clarity, and the tiny details that make everyday tools feel effortless.&lt;/p&gt;&#xA;&lt;p&gt;Our work blends thoughtful product strategy with careful engineering so teams can ship confidently and sustainably. From early prototypes to polished releases, we help ideas become products that people trust.&lt;/p&gt;&#xA;&lt;p&gt;Outside of client work, we explore the edges of UX, performance, and accessibility, sharing what we learn with the community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Fourth Post</title>
-      <link>https://shenoydotme.github.io/hugo-goa-demo/posts/fourth/</link>
+      <link>http://localhost:1313/hugo-goa-demo/posts/fourth/</link>
       <pubDate>Sat, 10 Jan 2026 10:25:00 +0530</pubDate>
-      <guid>https://shenoydotme.github.io/hugo-goa-demo/posts/fourth/</guid>
+      <guid>http://localhost:1313/hugo-goa-demo/posts/fourth/</guid>
       <description>&lt;h1 id=&#34;may-the-fourth-be-with-you-a-galactic-pun&#34;&gt;May the Fourth Be with You: A Galactic Pun&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Greetings, Earthlings and intergalactic travelers! Today, in my fourth post, we venture into a galaxy far, far away to explore a day cherished by rebels, Jedi, and starship enthusiasts alike — May the Fourth. Yes, you&amp;rsquo;ve guessed it! It&amp;rsquo;s the unofficial Star Wars Day, and we&amp;rsquo;re here to unravel an elaborate joke that has transcended space and time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-origin-of-the-pun&#34;&gt;The Origin of the Pun&lt;/h2&gt;&#xA;&lt;p&gt;It all started a long time ago in a galaxy&amp;hellip; well, not too far away. The date was May 4, 1979, when Margaret Thatcher became the first woman Prime Minister of the United Kingdom. Her political party placed a congratulatory ad in the London Evening News that read, &amp;ldquo;May the Fourth Be with You, Maggie. Congratulations.&amp;rdquo; Little did they know, they had just coined a phrase that would become a rallying cry for Star Wars fans for decades to come.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Third Post: We Demonstrate Images</title>
-      <link>https://shenoydotme.github.io/hugo-goa-demo/posts/third/</link>
+      <link>http://localhost:1313/hugo-goa-demo/posts/third/</link>
       <pubDate>Sat, 10 Jan 2026 10:15:00 +0530</pubDate>
-      <guid>https://shenoydotme.github.io/hugo-goa-demo/posts/third/</guid>
+      <guid>http://localhost:1313/hugo-goa-demo/posts/third/</guid>
       <description>&lt;h1 id=&#34;reflecting-on-carl-sagans-pale-blue-dot&#34;&gt;Reflecting on Carl Sagan&amp;rsquo;s Pale Blue Dot&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1572442350603-6cf8355670dd?q=80&amp;amp;w=800&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;ixlib=rb-4.0.3&amp;amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&#34; alt=&#34;Image of Space&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Photo by &lt;a href=&#34;%22https://unsplash.com/@juniperphoton?utm_content=creditCopyText&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash%22&#34;&gt;JuniperPhoton&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In 1990, Voyager 1, a tiny spacecraft hurled into the vast expanse of space, turned its camera around at the request of astronomer Carl Sagan and took a photograph of Earth from a distance of about 3.7 billion miles. This image, known as the &amp;ldquo;Pale Blue Dot,&amp;rdquo; is a humbling depiction of our planet — a tiny, fragile speck suspended in a sunbeam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>https://shenoydotme.github.io/hugo-goa-demo/posts/second/</link>
+      <link>http://localhost:1313/hugo-goa-demo/posts/second/</link>
       <pubDate>Sat, 10 Jan 2026 10:05:00 +0530</pubDate>
-      <guid>https://shenoydotme.github.io/hugo-goa-demo/posts/second/</guid>
+      <guid>http://localhost:1313/hugo-goa-demo/posts/second/</guid>
       <description>&lt;h2 id=&#34;heading-of-the-post&#34;&gt;Heading of the Post&lt;/h2&gt;&#xA;&lt;p&gt;Start writing your content here. You can add more sections, images, links, and various formatting to enrich your post. Here are some ideas to get started:&lt;/p&gt;&#xA;&lt;h3 id=&#34;subheading-for-a-section&#34;&gt;Subheading for a Section&lt;/h3&gt;&#xA;&lt;p&gt;Discuss a specific topic in detail here. You can add personal insights, professional tips, or any relevant information.&lt;/p&gt;&#xA;&lt;h4 id=&#34;example-code-blocks&#34;&gt;Example Code Blocks&lt;/h4&gt;&#xA;&lt;h5 id=&#34;javascript&#34;&gt;JavaScript&lt;/h5&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Welcome to my second post!&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;go&#34;&gt;Go&lt;/h5&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Welcome to my second post!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;python&#34;&gt;Python&lt;/h5&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; range(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Welcome to my second post!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Building With Intent</title>
-      <link>https://shenoydotme.github.io/hugo-goa-demo/projects/</link>
+      <link>http://localhost:1313/hugo-goa-demo/projects/</link>
       <pubDate>Thu, 08 Jan 2026 10:30:00 -0400</pubDate>
-      <guid>https://shenoydotme.github.io/hugo-goa-demo/projects/</guid>
+      <guid>http://localhost:1313/hugo-goa-demo/projects/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;: This article originally appeared on &lt;a href=&#34;https://papyrusapps.com&#34;&gt;Papyrus Apps Journal&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Papyrus Apps is built around the belief that products should be clear, humane, and dependable. We focus on solving real problems with elegant interfaces and resilient systems that scale as your audience grows.&lt;/p&gt;&#xA;&lt;p&gt;A significant part of our work is partnering with founders and teams who want to move fast without cutting corners. We bring structured discovery, a bias for prototypes, and an attention to detail that keeps products coherent as they grow.&lt;/p&gt;</description>
     </item>
   </channel>
